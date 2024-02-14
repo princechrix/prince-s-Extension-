@@ -1,0 +1,20 @@
+{
+  "name": "prince-s-snippet",
+  "displayName": "prince's Snippet",
+  "description": "Creator princechrix.dev@gmail.com",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "c",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}

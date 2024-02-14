@@ -1,0 +1,13 @@
+{
+    "c strart template": {
+        "prefix": "!c", 
+        "body": [
+            "#include<stdio.h>",
+            "", 
+            "int main() {", 
+            "",
+            "}"
+        ], 
+        "description": "Creates a c structure template"
+    }
+}
